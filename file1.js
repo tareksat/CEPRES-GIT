@@ -1,1 +1,1 @@
-const test = ['One']
+const test = ['One', 'two']
